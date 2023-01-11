@@ -1,4 +1,4 @@
-# Programacion
+## Programacion
 # 1 Presentación e introducción a la asignatura
 
 ***Las calificaciones son de: Examen(3), Proyecto (3), Workshop(2) y Deberes (2) cada Bimestre, tambien hay la opcion de ganar puntos extra por investigar, el Workshop consiste en presentar las anotaciones y avances que se hayan hecho en toda la semana, todos los viernes.*** 
